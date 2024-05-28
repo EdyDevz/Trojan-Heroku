@@ -1,0 +1,13 @@
+{
+    "name": "Trojan-Go",
+    "description": "Deploy Trojan-Go to Heroku.",
+    "keywords": ["Trojan-Go"],
+    "env": {
+        "PASSWORD": {
+            "description": "Trojan-Go UUID",
+            "value": "xynte"
+        }
+    },
+    "repository": "https://github.com/EdyDevz/Trojan-Heroku",
+    "stack": "container"
+}
